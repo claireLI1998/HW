@@ -1,0 +1,11 @@
+.user-name {
+    text-align: center;
+    height: 64px;
+    padding: 10px;
+    border-bottom: gray 2px solid;  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: large;
+    color: white;
+}
